@@ -1,18 +1,10 @@
 # 🤖 Stanford Robotic Manipulator
-Welcome to the Stanford Robotic Manipulator project! This repository contains various files and directories to simulate, optimize, and visualize the Stanford robotic manipulator using MATLAB, Blender, and web technologies!
+This project showcases optimal trajectory planning for the Stanford Robotic Manipulator using Genetic Algorithms. The website is created with Next.js and Tailwind CSS, while the simulation was created using Blender and utilizes Three.js. MATLAB is used for implementing the Genetic Algorithm. 
 
-## Tech Stack
-[![tech Stack](https://skillicons.dev/icons?i=matlab,python,nextjs,js,tailwindcss,blender,threejs,figma,vercel)](https://skillicons.dev)
+Check out the live demo of this project hosted by Vercel at: [Stanford Robotic Arm Website](https://stanford-robotic-arm-b2.vercel.app/)
 
-## Contributors 🤝
-<table style="border: none;">
-<tr>
-<td align="center" width="200"><pre><a href="https://github.com/Manasha-1204Manasha-1204"><img src="https://avatars.githubusercontent.com/u/121673101?v=4" width="200" alt="Profile" /><br><sub>@Manasha-1204</sub></a></pre></td>
-<td align="center" width="200"><pre><a href="https://github.com/amri-tah"><img src="https://avatars.githubusercontent.com/u/111682039?v=4" width="200" alt="Profile" /><br><sub>@amri-tah</sub></a></pre></td>
-<td align="center" width="200"><pre><a href="https://github.com/sudheerkumarchowdary"><img src="https://avatars.githubusercontent.com/u/98307666?v=4" width="200" alt="Profile" /><br><sub>@sudheerkumarchowdary</sub></a>
-<td align="center" width="200"><pre><a href="https://github.com/BURUGURAHUL"><img src="https://avatars.githubusercontent.com/u/121683096?v=4" width="200" alt="Profile" /><br><sub>@BURUGURAHUL</sub></a></pre></td>
-</tr>
-</table>
+## 💻 Tech Stack
+[![tech Stack](https://skillicons.dev/icons?i=matlab,python,nextjs,tailwindcss,blender,threejs,figma,vercel)](https://skillicons.dev)
 
 ## 📂 Directory Structure
 
@@ -74,6 +66,9 @@ Jupyter Notebook with the implementation and analysis of the Stanford manipulato
 ![optimized](https://github.com/BURUGURAHUL/Stanford-Robotic-Arm/assets/111682039/87e5b612-7c55-466e-9609-04e83b0c35ae)
 
 ## ✅ Screenshots 
+![image](https://github.com/BURUGURAHUL/Stanford-Robotic-Arm/assets/111682039/b91774da-7506-49a8-9e7d-22449ef90fa9)
+![image](https://github.com/BURUGURAHUL/Stanford-Robotic-Arm/assets/111682039/241b47a9-aaec-4493-8694-9ce501e1a8a5)
+![image](https://github.com/BURUGURAHUL/Stanford-Robotic-Arm/assets/111682039/33ea2d8a-95f4-477f-ba07-920964cb27e1)
 
 ## 🛠️ Usage
 
@@ -83,23 +78,26 @@ To run the MATLAB simulation, navigate to the `stanford-ga-matlab` directory and
 
 ### Blender Simulation
 
-To view the simulation in Blender, open the `index.html` file in the `stanford-simulation-blender` directory in your browser.
+To view the simulation in Blender, open the `index.html` file in the `stanford-simulation-blender` directory in your browser or head over to the [simulation page](https://stanford-robotic-arm-b2.vercel.app/index.html) on the website!
 
 ### Web Visualization
 
-To access the web visualization, navigate to the `stanford-web/stanford-webpages` directory, and run `npm install` and `npm run dev` on the terminal.
+To access the web visualization, navigate to the `stanford-web/stanford-webpages` directory, and run `npm install` and `npm run dev` on the terminal. 
 
-
+## Contributors 🤝
+<table style="border: none;" align="center">
+<tr>
+<td align="center" width="200"><pre><a href="https://github.com/Manasha-1204Manasha-1204"><img src="https://avatars.githubusercontent.com/u/121673101?v=4" width="200" alt="Profile" /><br><sub>@Manasha-1204</sub></a></pre></td>
+<td align="center" width="200"><pre><a href="https://github.com/amri-tah"><img src="https://avatars.githubusercontent.com/u/111682039?v=4" width="200" alt="Profile" /><br><sub>@amri-tah</sub></a></pre></td>
+<td align="center" width="200"><pre><a href="https://github.com/sudheerkumarchowdary"><img src="https://avatars.githubusercontent.com/u/98307666?v=4" width="200" alt="Profile" /><br><sub>@sudheerkumarchowdary</sub></a>
+<td align="center" width="200"><pre><a href="https://github.com/BURUGURAHUL"><img src="https://avatars.githubusercontent.com/u/121683096?v=4" width="200" alt="Profile" /><br><sub>@BURUGURAHUL</sub></a></pre></td>
+</tr>
+</table>
   
 ## 📜 License
 
 This project is licensed under the MIT License.
 
-## 🙌 Acknowledgments
-
-Special thanks to all the contributors who made this project possible.
-
 ---
 
 Feel free to explore the directories and scripts to gain a deeper understanding of the Stanford robotic manipulator and its simulations!
-
