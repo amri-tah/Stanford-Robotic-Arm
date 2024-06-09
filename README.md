@@ -6,6 +6,10 @@ Check out the live demo of this project hosted by Vercel at: [Stanford Robotic A
 ## 💻 Tech Stack
 [![tech Stack](https://skillicons.dev/icons?i=matlab,python,nextjs,tailwindcss,blender,threejs,figma,vercel)](https://skillicons.dev)
 
+## ✅ Screenshots 
+![image](https://github.com/BURUGURAHUL/Stanford-Robotic-Arm/assets/111682039/b91774da-7506-49a8-9e7d-22449ef90fa9)
+![image](https://github.com/BURUGURAHUL/Stanford-Robotic-Arm/assets/111682039/241b47a9-aaec-4493-8694-9ce501e1a8a5)
+![image](https://github.com/BURUGURAHUL/Stanford-Robotic-Arm/assets/111682039/33ea2d8a-95f4-477f-ba07-920964cb27e1)
 
 ## 🖼️ MATLAB Simulation 
 
@@ -14,11 +18,6 @@ Check out the live demo of this project hosted by Vercel at: [Stanford Robotic A
 | ![unoptimized](https://github.com/BURUGURAHUL/Stanford-Robotic-Arm/assets/111682039/ee8e50de-39b6-4fbb-99df-073c89cceeaf) | ![optimized](https://github.com/BURUGURAHUL/Stanford-Robotic-Arm/assets/111682039/87e5b612-7c55-466e-9609-04e83b0c35ae) |
 
 
-
-## ✅ Screenshots 
-![image](https://github.com/BURUGURAHUL/Stanford-Robotic-Arm/assets/111682039/b91774da-7506-49a8-9e7d-22449ef90fa9)
-![image](https://github.com/BURUGURAHUL/Stanford-Robotic-Arm/assets/111682039/241b47a9-aaec-4493-8694-9ce501e1a8a5)
-![image](https://github.com/BURUGURAHUL/Stanford-Robotic-Arm/assets/111682039/33ea2d8a-95f4-477f-ba07-920964cb27e1)
 
 ## 📂 Directory Structure
 
